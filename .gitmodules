@@ -1,0 +1,3 @@
+[submodule "UniversalBreakpointInterceptor"]
+	path = UniversalBreakpointInterceptor
+	url = https://github.com/QBos07/UniversalBreakpointInterceptor.git
